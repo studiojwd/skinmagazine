@@ -1,0 +1,1447 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sinensis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-18 18:34+0700\n"
+"PO-Revision-Date: 2014-11-18 18:35+0700\n"
+"Last-Translator: azhari <islammunity@gmail.com>\n"
+"Language-Team: juarathemes <juarathemes@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../archive.php:22
+msgid "Daily Archives"
+msgstr "الأرشيف اليومي"
+
+#: ../archive.php:24
+msgid "Monthly Archives"
+msgstr "Blablabla"
+
+#: ../archive.php:26
+msgid "Yearly Archives"
+msgstr "الأرشيف السنوي"
+
+#: ../archive.php:28
+#: ../archive.php:41
+msgid "Archives"
+msgstr "الأرشيف"
+
+#: ../author.php:21
+msgid "All Posts by"
+msgstr "عن المشاركات التي كتبها"
+
+#: ../category.php:21
+msgid "Browsing Category"
+msgstr "تصفح الفئة"
+
+#: ../category.php:23
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../comments.php:26
+msgid "Feedback"
+msgstr "تواصل معنا"
+
+#: ../comments.php:47
+msgid "Comment navigation"
+msgstr "تصفح التعليقات"
+
+#: ../comments.php:48
+msgid "Older Comments"
+msgstr "تعليقات أقدم"
+
+#: ../comments.php:49
+msgid "Newer Comments"
+msgstr "تعليقات أحدث"
+
+#: ../comments.php:57
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: ../comments.php:73
+msgid "You must be "
+msgstr "يجب أن تكون "
+
+#: ../comments.php:73
+msgid "logged in"
+msgstr "تسجيل الدخول"
+
+#: ../comments.php:73
+msgid "to post a comment."
+msgstr "لنشر تعليق."
+
+#: ../comments.php:88
+msgid "Logged in as"
+msgstr "الدخول مسجل باسم"
+
+#: ../comments.php:96
+msgid "Name "
+msgstr "اسم "
+
+#: ../comments.php:103
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: ../comments.php:109
+msgid "Website"
+msgstr "الموقع"
+
+#: ../comments.php:118
+msgid "Comment"
+msgstr "التعليق"
+
+#: ../comments.php:123
+msgid "Submit Comment"
+msgstr "ادخل التعليق"
+
+#: ../content-404.php:3
+msgid "404 Girlfriend Not Found"
+msgstr "404 لم يتم العثور على صديقة"
+
+#: ../content-404.php:8
+msgid "Sorry, no posts matched your criteria."
+msgstr "عذرا، لا وظائف مطابقة للمعايير الخاصة بك."
+
+#: ../content-page.php:10
+#: ../content-quote.php:8
+#: ../content.php:29
+msgid "Continue Reading <i class=\"fa fa-long-arrow-right\"></i>"
+msgstr "مواصلة القراءة <i class=\"fa fa-long-arrow-right\"></i>"
+
+#: ../content-page.php:14
+#: ../content.php:33
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: ../content-page.php:31
+#: ../content-quote.php:15
+#: ../content.php:50
+msgid "Tagged with: "
+msgstr "مع المعلمة: "
+
+#: ../content.php:16
+msgid "Author: "
+msgstr "مؤلف"
+
+#: ../footer.php:67
+msgid "Back to Top "
+msgstr "العودة لأعلى "
+
+#: ../functions.php:36
+#: ../functions.php:37
+msgid "Theme Options"
+msgstr "خيارات الموقع"
+
+#: ../header.php:55
+msgid "Looking for Something?"
+msgstr "هل تبحث عن شيء؟"
+
+#: ../header.php:167
+msgid "Navigation"
+msgstr "التنقل"
+
+#: ../search.php:21
+msgid "Search Results For"
+msgstr "نتائج البحث عن"
+
+#: ../single.php:151
+msgid "Previous Post"
+msgstr "الوظيفة السابقة"
+
+#: ../single.php:164
+msgid "Next Post"
+msgstr "آخر القادمة"
+
+#: ../tag.php:20
+msgid "Posts Tagged for"
+msgstr "وظيفة معلم لل"
+
+#: ../admin/option/option.php:9
+msgid "General Settings"
+msgstr "الإعدادات العامة"
+
+#: ../admin/option/option.php:14
+msgid "Branding"
+msgstr "الهويات والعلامات التجارية"
+
+#: ../admin/option/option.php:20
+msgid "Logo"
+msgstr "شعار"
+
+#: ../admin/option/option.php:26
+msgid "Logo on Header"
+msgstr "الشعار على رأس"
+
+#: ../admin/option/option.php:27
+msgid "Upload your logo here."
+msgstr "تحميل الشعار الخاص بك هنا."
+
+#: ../admin/option/option.php:41
+msgid "Favicon"
+msgstr "ايقونة"
+
+#: ../admin/option/option.php:49
+msgid "144px Favicon"
+msgstr "144px فافيكون"
+
+#: ../admin/option/option.php:50
+msgid "Upload your favicon for third-generation iPad with high-resolution Retina display (144x144 px)"
+msgstr "تحميل فافيكون الخاص بك عن الجيل الثالث من آي باد مع ارتفاع القرار شاشة شبكية العين (144x144 بكسل)"
+
+#: ../admin/option/option.php:57
+msgid "114px Favicon"
+msgstr "114px فافيكون"
+
+#: ../admin/option/option.php:58
+msgid "Upload your favicon for iPhone with high-resolution Retina display (114x114 px)"
+msgstr "تحميل فافيكون لديك اي فون مع ارتفاع القرار شاشة شبكية العين (114x114 بكسل)"
+
+#: ../admin/option/option.php:65
+msgid "72px Favicon"
+msgstr "72px فافيكون"
+
+#: ../admin/option/option.php:66
+msgid "Upload your favicon For first- and second-generation iPad (72x72 px)"
+msgstr "تحميل فافيكون الخاص بك على الأول والجيل الثاني من آي باد (72x72 بيكسل)"
+
+#: ../admin/option/option.php:73
+msgid "57px Favicon"
+msgstr "57px فافيكون"
+
+#: ../admin/option/option.php:74
+msgid "Upload your favicon For non-Retina iPhone, iPod Touch, and Android 2.1+ devices (57x57 px)"
+msgstr "تحميل فافيكون الخاص بك لغير الشبكية، اي فون، آي بود تاتش، وأجهزة أندرويد 2.1+ (57x57 بيكسل)"
+
+#: ../admin/option/option.php:80
+msgid "Default Favicon"
+msgstr "فافيكون الافتراضي"
+
+#: ../admin/option/option.php:81
+msgid "Upload your favicon For Default Browser"
+msgstr "تحميل فافيكون الخاص بك لمتصفح افتراضي"
+
+#: ../admin/option/option.php:89
+msgid "Advanced Settings"
+msgstr "إعدادات متقدمة"
+
+#: ../admin/option/option.php:95
+msgid "Container Box"
+msgstr "صندوق الحاويات"
+
+#: ../admin/option/option.php:100
+msgid "Container Width"
+msgstr "عرض الحاويات"
+
+#: ../admin/option/option.php:104
+msgid "Boxed"
+msgstr "صندوقي"
+
+#: ../admin/option/option.php:108
+msgid "Full Width"
+msgstr "عرض كامل"
+
+#: ../admin/option/option.php:116
+msgid "Container Box Drop Shadow"
+msgstr "حاوية صندوق إسقاط الظل"
+
+#: ../admin/option/option.php:117
+msgid "Drop shadow for the box container that wrapping 2nd Menu, slider, post content, sidebar."
+msgstr "شبح الهبوط للحاوية المربع الذي يلف القائمة 2، المنزلق، ومحتوى آخر، الشريط الجانبي."
+
+#: ../admin/option/option.php:136
+msgid "Sidebar Configuration"
+msgstr "تكوين الشريط الجانبي"
+
+#: ../admin/option/option.php:142
+msgid "Sidebar Position"
+msgstr "الوظيفة الشريط الجانبي"
+
+#: ../admin/option/option.php:143
+msgid "Choose the sidebar position, this configuration will affect to all pages (home, blogroll, archive, category, tag, search, author)"
+msgstr "اختيار موقف الشريط الجانبي، وهذا التكوين يؤثر على كافة الصفحات (المنزل، المدونات، الأرشيف، الفئة، العلامة، البحث، مؤلف)"
+
+#: ../admin/option/option.php:147
+msgid "Right Sidebar"
+msgstr "الشريط الجانبي الايمن"
+
+#: ../admin/option/option.php:152
+msgid "Left Sidebar"
+msgstr "الشريط الجانبي الايسر"
+
+#: ../admin/option/option.php:157
+msgid "No Sidebar / Full Width"
+msgstr "لا الشريط الجانبي / عرض كامل"
+
+#: ../admin/option/option.php:169
+msgid "Featured Posts Slider"
+msgstr "شارك الوظائف المتزلج"
+
+#: ../admin/option/option.php:174
+msgid "Show featured content?"
+msgstr "مشاهدة المميز المحتوى؟"
+
+#: ../admin/option/option.php:180
+msgid "Choose Categorie(s)"
+msgstr "اختيار الفئة (ق)"
+
+#: ../admin/option/option.php:181
+msgid "The posts will show up within the choosen categories"
+msgstr "سوف تظهر الوظائف حتى ضمن الفئات المختار"
+
+#: ../admin/option/option.php:197
+msgid "Article Features"
+msgstr "المادة الميزات"
+
+#: ../admin/option/option.php:203
+msgid "Share Buttons"
+msgstr "حصة أزرار"
+
+#: ../admin/option/option.php:209
+msgid "Author Info"
+msgstr "معلومات الكاتب"
+
+#: ../admin/option/option.php:215
+msgid "Related Articles Box"
+msgstr "مقالات ذات صلة صندوق"
+
+#: ../admin/option/option.php:250
+msgid "404 Page"
+msgstr "الصفحة 404"
+
+#: ../admin/option/option.php:257
+msgid "Not Found Title"
+msgstr "لم يتم العثور على عنوان"
+
+#: ../admin/option/option.php:258
+msgid "Not Found Title, leave blank to use default text"
+msgstr "لم يتم العثور على عنوان، وترك فارغا لاستخدام النص الافتراضي"
+
+#: ../admin/option/option.php:262
+msgid "Message 404"
+msgstr "رسالة 404"
+
+#: ../admin/option/option.php:267
+msgid "Content"
+msgstr "المحتوى:"
+
+#: ../admin/option/option.php:282
+msgid "Design & Styling"
+msgstr "تصميم والتصميم"
+
+#: ../admin/option/option.php:290
+msgid "Body Styling"
+msgstr "هيئة التصميم"
+
+#: ../admin/option/option.php:301
+msgid "Use Background overlay?"
+msgstr "استخدام خلفية تراكب؟"
+
+#: ../admin/option/option.php:302
+msgid "The layer that overlay the body background element"
+msgstr "الطبقة التي تراكب العنصر خلفية الجسم"
+
+#: ../admin/option/option.php:318
+msgid "Body Background Image"
+msgstr "هيئة صورة الخلفية"
+
+#: ../admin/option/option.php:319
+msgid "Upload your image here for body backgrond."
+msgstr "تحميل الصور الخاصة بك هنا لbackgrond الجسم."
+
+#: ../admin/option/option.php:324
+msgid "Stretch Background Image"
+msgstr "تمتد صورة الخلفية"
+
+#: ../admin/option/option.php:335
+msgid "Horizontal Repeat"
+msgstr "كرر الأفقي"
+
+#: ../admin/option/option.php:339
+msgid "Vertical Repeat"
+msgstr "كرر الرأسي"
+
+#: ../admin/option/option.php:343
+msgid "Horizontal & Vertical Repeat"
+msgstr "كرر أفقي وعمودي"
+
+#: ../admin/option/option.php:347
+msgid "No Repeat"
+msgstr "لا كرر"
+
+#: ../admin/option/option.php:354
+msgid "Background Position"
+msgstr "خلفية الوظيفة"
+
+#: ../admin/option/option.php:358
+msgid "top left"
+msgstr "أعلى اليسار"
+
+#: ../admin/option/option.php:362
+msgid "top center"
+msgstr "مركز أعلى"
+
+#: ../admin/option/option.php:366
+msgid "top right"
+msgstr "أعلى اليسار"
+
+#: ../admin/option/option.php:370
+msgid "center left"
+msgstr "يسار الوسط"
+
+#: ../admin/option/option.php:374
+msgid "center center"
+msgstr "مركز مركز"
+
+#: ../admin/option/option.php:378
+msgid "center right"
+msgstr "يمين الوسط"
+
+#: ../admin/option/option.php:382
+msgid "bottom left"
+msgstr "أسفل اليسار"
+
+#: ../admin/option/option.php:386
+msgid "bottom center"
+msgstr "مركز القاع"
+
+#: ../admin/option/option.php:390
+msgid "bottom right"
+msgstr "أسفل اليمين"
+
+#: ../admin/option/option.php:398
+msgid "Background Attachment"
+msgstr "الخلفية مرفق"
+
+#: ../admin/option/option.php:402
+msgid "Fixed"
+msgstr "Fixed - ثابت"
+
+#: ../admin/option/option.php:406
+msgid "Scroll"
+msgstr "التمرير"
+
+#: ../admin/option/option.php:414
+msgid "Accent Color"
+msgstr "لهجة اللون"
+
+#: ../admin/option/option.php:425
+msgid "Top Bar Styling"
+msgstr "الأعلى بار التصميم"
+
+#: ../admin/option/option.php:430
+msgid "Show Top Bar?"
+msgstr "تظهر أعلى شريط؟"
+
+#: ../admin/option/option.php:436
+msgid "Use Border (stroke)"
+msgstr "استخدام الحدود (السكتة الدماغية)"
+
+#: ../admin/option/option.php:442
+#: ../admin/option/option.php:499
+msgid "Border Color"
+msgstr "اللون الحدود"
+
+#: ../admin/option/option.php:452
+#: ../admin/option/option.php:485
+#: ../admin/shortcode_generator/shortcodes1.php:430
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: ../admin/option/option.php:453
+msgid "The background color for top bar"
+msgstr "لون خلفية الشريط العلوي"
+
+#: ../admin/option/option.php:459
+msgid "Text Color Default"
+msgstr "لون النص افتراضي"
+
+#: ../admin/option/option.php:460
+msgid "The text color for top bar"
+msgstr "لون النص على الشريط العلوي"
+
+#: ../admin/option/option.php:466
+msgid "Text Color (Accent)"
+msgstr "لون الخط (أكسنت)"
+
+#: ../admin/option/option.php:467
+msgid "Will affect to hover and active state links"
+msgstr "سوف تؤثر على لتحوم والروابط حالة نشطة"
+
+#: ../admin/option/option.php:474
+msgid "2nd Menu Bar (Below Logo)"
+msgstr "شريط القوائم 2 (تحت شعار)"
+
+#: ../admin/option/option.php:479
+msgid "Show The Bar?"
+msgstr "إظهار شريط؟"
+
+#: ../admin/option/option.php:486
+msgid "The background color"
+msgstr "لون الخلفية"
+
+#: ../admin/option/option.php:492
+#: ../admin/shortcode_generator/shortcodes1.php:425
+msgid "Text Color"
+msgstr "لون الخط"
+
+#: ../admin/option/option.php:493
+msgid "The text color"
+msgstr "لون النص"
+
+#: ../admin/option/option.php:500
+msgid "The border bottom color"
+msgstr "لون أسفل الحدود"
+
+#: ../admin/option/option.php:514
+msgid "Advertising"
+msgstr "الدعاية والإعلان"
+
+#: ../admin/option/option.php:520
+msgid "Top Banner Ads"
+msgstr "أعلى راية الإعلانات"
+
+#: ../admin/option/option.php:521
+#: ../admin/option/option.php:555
+msgid "Social Media Links That will appear in top right of the container"
+msgstr "وسائل الإعلام الروابط الاجتماعية والتي تظهر في أعلى يمين الحاويات"
+
+#: ../admin/option/option.php:526
+msgid "Enable Ads on article posts"
+msgstr "تمكين الإعلانات على المادة المشاركات"
+
+#: ../admin/option/option.php:527
+msgid "on top, will be displayed at the below of the breadcrumbs"
+msgstr "على القمة، وسيتم عرضه في أقل من فتات الخبز"
+
+#: ../admin/option/option.php:532
+msgid "Ads Script"
+msgstr "الإعلانات سيناريو"
+
+#: ../admin/option/option.php:533
+#, fuzzy
+msgid "Put the code such as google adsense here."
+msgstr "ضع التعليمات البرمجية تعقب مثل جوجل ادسنس هنا."
+
+#: ../admin/option/option.php:546
+msgid "Social Media"
+msgstr "الوسائط الاجتماعية"
+
+#: ../admin/option/option.php:553
+msgid "Social Media Links"
+msgstr "سريعة وسائل الإعلام الاجتماعي"
+
+#: ../admin/option/option.php:561
+msgid "Facebook URL"
+msgstr "الفيسبوك URL"
+
+#: ../admin/option/option.php:562
+#: ../admin/option/option.php:568
+#: ../admin/option/option.php:575
+#: ../admin/option/option.php:582
+#: ../admin/option/option.php:589
+#: ../admin/option/option.php:596
+#: ../admin/option/option.php:603
+#: ../admin/option/option.php:610
+#: ../admin/option/option.php:618
+#: ../admin/option/option.php:625
+#: ../admin/option/option.php:633
+#: ../admin/option/option.php:640
+msgid "Put the link here"
+msgstr "وضع وصلة هنا"
+
+#: ../admin/option/option.php:567
+msgid "Twitter URL"
+msgstr "تويتر URL"
+
+#: ../admin/option/option.php:574
+msgid "Google+ URL"
+msgstr "URL في Google+"
+
+#: ../admin/option/option.php:581
+msgid "Youtube URL"
+msgstr "URL يوتيوب"
+
+#: ../admin/option/option.php:588
+msgid "Pinterest URL"
+msgstr "URL بينتيريست"
+
+#: ../admin/option/option.php:595
+msgid "Dribbble URL"
+msgstr "URL Dribbble"
+
+#: ../admin/option/option.php:602
+msgid "Instagram"
+msgstr "إينستاجرام"
+
+#: ../admin/option/option.php:609
+msgid "Flickr URL"
+msgstr "URL فليكر"
+
+#: ../admin/option/option.php:617
+msgid "github URL"
+msgstr "URL جيثب"
+
+#: ../admin/option/option.php:624
+msgid "linkedin URL"
+msgstr "URL ينكدين"
+
+#: ../admin/option/option.php:632
+msgid "tumblr URL"
+msgstr "URL نعرفكم"
+
+#: ../admin/option/option.php:639
+msgid "vimeo URL"
+msgstr "URL فيميو"
+
+#: ../admin/option/option.php:650
+msgid "Typography"
+msgstr "الطباعة"
+
+#: ../admin/option/option.php:656
+#: ../admin/option/option.php:662
+msgid "Use Custom Font"
+msgstr "استخدام مخصص الخط"
+
+#: ../admin/option/option.php:663
+msgid "Use custom font from google webfonts or not?"
+msgstr "استخدام خط مخصص من جوجل webfonts أم لا؟"
+
+#: ../admin/option/option.php:670
+msgid "<strong>Line-height Help!</strong>"
+msgstr "<قوية> خط الطول مساعدة! </ قوي>"
+
+#: ../admin/option/option.php:671
+msgid "Are you confuse how to set the ratio of the line-height and font-size? Just use this tool to make your life easier: <a href=\"http://www.pearsonified.com/typography/\">Golden Ratio Typography Calculator</a>. Just remember that you need to fill the content width with <strong>640</strong>"
+msgstr "هل الخلط بين كيفية تعيين نسبة من خط الطول وحجم الخط؟ مجرد استخدام هذه الأداة لتجعل حياتك أسهل: <a href=\"http://www.pearsonified.com/typography/\"> النسبة الذهبية حاسبة الطباعة </A>. فقط تذكر أنك تحتاج لملء عرض المحتوى مع على <strong> 640 </ قوي>"
+
+#: ../admin/option/option.php:680
+msgid "Body Font"
+msgstr "الخط الجسم"
+
+#: ../admin/option/option.php:691
+#: ../admin/option/option.php:767
+msgid "Font Face"
+msgstr "نوع الخط"
+
+#: ../admin/option/option.php:705
+#: ../admin/option/option.php:781
+#: ../admin/option/option.php:842
+msgid "Font Weight"
+msgstr "الوزن الخط"
+
+#: ../admin/option/option.php:719
+#: ../admin/option/option.php:795
+#: ../admin/option/option.php:856
+msgid "Font Style"
+msgstr "نمط الخط"
+
+#: ../admin/option/option.php:737
+#: ../admin/option/option.php:887
+#: ../admin/option/option.php:914
+#: ../admin/option/option.php:941
+#: ../admin/option/option.php:968
+#: ../admin/option/option.php:995
+#: ../admin/option/option.php:1021
+#: ../admin/option/option.php:1048
+msgid "Font Size (px)"
+msgstr "حجم الخط (بكسل)"
+
+#: ../admin/option/option.php:745
+#: ../admin/option/option.php:894
+#: ../admin/option/option.php:921
+#: ../admin/option/option.php:948
+#: ../admin/option/option.php:975
+#: ../admin/option/option.php:1002
+#: ../admin/option/option.php:1028
+#: ../admin/option/option.php:1055
+msgid "Line Height (px)"
+msgstr "خط الطول (بكسل)"
+
+#: ../admin/option/option.php:756
+msgid "menu Font"
+msgstr "القائمة الخط"
+
+#: ../admin/option/option.php:815
+msgid "Heading Font"
+msgstr "يتجه الخط"
+
+#: ../admin/option/option.php:827
+msgid "Heading Font Face"
+msgstr "مداخل الوجه الخط"
+
+#: ../admin/option/option.php:876
+msgid "Post Title Size"
+msgstr "عنوان الحجم"
+
+#: ../admin/option/option.php:903
+msgid "H1 Font Size"
+msgstr "H1 حجم الخط"
+
+#: ../admin/option/option.php:930
+msgid "H2 Font Size"
+msgstr "H2 حجم الخط"
+
+#: ../admin/option/option.php:958
+msgid "H3 Fonts"
+msgstr "H3 الخطوط"
+
+#: ../admin/option/option.php:984
+msgid "H4 Fonts"
+msgstr "H4 الخطوط"
+
+#: ../admin/option/option.php:1011
+msgid "H5 Fonts"
+msgstr "H5 الخطوط"
+
+#: ../admin/option/option.php:1037
+msgid "H6 Fonts"
+msgstr "H6 الخطوط"
+
+#: ../admin/option/option.php:1075
+msgid "Custom Codes"
+msgstr "رموز مخصصة"
+
+#: ../admin/option/option.php:1082
+msgid "Custom CSS"
+msgstr "CSS مخصصة"
+
+#: ../admin/option/option.php:1083
+msgid "Write your custom css here."
+msgstr "إرسال المغلق المخصص الخاص بك هنا."
+
+#: ../admin/option/option.php:1098
+msgid "Tracker Script"
+msgstr "تعقب سيناريو"
+
+#: ../admin/option/option.php:1099
+msgid "Put the tracker code such as google analythic here"
+msgstr "ضع التعليمات البرمجية تعقب مثل جوجل analythic هنا"
+
+#: ../admin/option/option.php:1112
+#: ../admin/option/option.php:1120
+msgid "Footer"
+msgstr "التذييل"
+
+#: ../admin/option/option.php:1125
+msgid "Copyright Text"
+msgstr "نص حقوق التأليف والنشر"
+
+#: ../admin/option/option.php:1132
+msgid "This configuration needs Siteorigin Page Builder"
+msgstr "هذا التكوين يحتاج Siteorigin الصفحة باني"
+
+#: ../admin/option/option.php:1133
+msgid "You can download the required plugin from <a href=\"https://wordpress.org/plugins/siteorigin-panels/\">Here</a>"
+msgstr "يمكنك تحميل البرنامج المساعد المطلوبة من <a href=\"https://wordpress.org/plugins/siteorigin-panels/\"> هنا </a>"
+
+#: ../admin/option/option.php:1139
+msgid "First Footer Content"
+msgstr "أول تذييل المحتوى"
+
+#: ../admin/option/option.php:1140
+msgid "Select the page that the content was created with Siteorigin Page Builder, the content of the choosen page will be displayed in this footer"
+msgstr "اختر الصفحة التي تم إنشاء المحتوى مع Siteorigin الصفحة باني، سوف يتم عرض محتوى الصفحة المختار في هذا تذييل"
+
+#: ../admin/shortcode_generator/shortcodes1.php:15
+msgid "WP Visual Editor"
+msgstr "محرر Visual الفسفور الابيض"
+
+#: ../admin/shortcode_generator/shortcodes1.php:23
+msgid "Radio Button"
+msgstr "زر الراديو"
+
+#: ../admin/shortcode_generator/shortcodes1.php:42
+msgid "Checkbox"
+msgstr "مربع الاختيار"
+
+#: ../admin/shortcode_generator/shortcodes1.php:62
+msgid "Select"
+msgstr "إختيار"
+
+#: ../admin/shortcode_generator/shortcodes1.php:81
+msgid "Fontawesome Icon"
+msgstr "Fontawesome أيقونة"
+
+#: ../admin/shortcode_generator/shortcodes1.php:86
+msgid "Multiselect"
+msgstr "Multiselect"
+
+#: ../admin/shortcode_generator/shortcodes1.php:106
+msgid "Color"
+msgstr "اللون"
+
+#: ../admin/shortcode_generator/shortcodes1.php:112
+msgid "Sorter"
+msgstr "مصنف الرسائل"
+
+#: ../admin/shortcode_generator/shortcodes1.php:132
+msgid "Slider"
+msgstr "تصنيف الشرائح"
+
+#: ../admin/shortcode_generator/shortcodes1.php:140
+msgid "Upload"
+msgstr "https://en.wikipedia.org/wiki/Rapid_Deployment_Forces_(Egypt)"
+
+#: ../admin/shortcode_generator/shortcodes1.php:145
+msgid "Date"
+msgstr "التاريخ "
+
+#: ../admin/shortcode_generator/shortcodes1.php:150
+msgid "Textarea"
+msgstr "نص"
+
+#: ../admin/shortcode_generator/shortcodes1.php:156
+msgid "Check Image"
+msgstr "الاختيار صورة"
+
+#: ../admin/shortcode_generator/shortcodes1.php:160
+#: ../admin/shortcode_generator/shortcodes1.php:188
+msgid "Label 1"
+msgstr "التسمية 1"
+
+#: ../admin/shortcode_generator/shortcodes1.php:165
+#: ../admin/shortcode_generator/shortcodes1.php:193
+msgid "Label 2"
+msgstr "التسمية 2"
+
+#: ../admin/shortcode_generator/shortcodes1.php:170
+#: ../admin/shortcode_generator/shortcodes1.php:198
+msgid "Label 3"
+msgstr "التسمية 3"
+
+#: ../admin/shortcode_generator/shortcodes1.php:175
+#: ../admin/shortcode_generator/shortcodes1.php:203
+msgid "Label 4"
+msgstr "التسمية 4"
+
+#: ../admin/shortcode_generator/shortcodes1.php:184
+msgid "Radio Image"
+msgstr "صورة"
+
+#: ../admin/shortcode_generator/shortcodes1.php:212
+msgid "Code Editor"
+msgstr "محرر مدونة"
+
+#: ../admin/shortcode_generator/shortcodes1.php:218
+msgid "Toggle"
+msgstr "تبديل "
+
+#: ../admin/shortcode_generator/shortcodes1.php:236
+#: ../admin/shortcode_generator/shortcodes1.php:397
+#: ../admin/shortcode_generator/shortcodes1.php:488
+msgid "Color Accent"
+msgstr "لون اللكنة"
+
+#: ../admin/shortcode_generator/shortcodes1.php:263
+msgid "Background Image URL"
+msgstr "خلفية URL صورة"
+
+#: ../admin/shortcode_generator/shortcodes1.php:268
+msgid "Background Image Repeat"
+msgstr "صورة الخلفية كرر"
+
+#: ../admin/shortcode_generator/shortcodes1.php:287
+msgid "Background Image Attachment"
+msgstr "صورة الخلفية مرفق"
+
+#: ../admin/shortcode_generator/shortcodes1.php:306
+msgid "Background Image Position"
+msgstr "صورة الخلفية الوظيفة"
+
+#: ../admin/shortcode_generator/shortcodes1.php:349
+msgid "Background Image Size"
+msgstr "خلفية حجم الصورة"
+
+#: ../admin/shortcode_generator/shortcodes1.php:370
+#: ../admin/shortcode_generator/shortcodes2.php:14
+msgid "Column"
+msgstr "عمود"
+
+#: ../admin/shortcode_generator/shortcodes1.php:377
+#: ../admin/shortcode_generator/shortcodes2.php:28
+msgid "Offset"
+msgstr "عوض"
+
+#: ../admin/shortcode_generator/shortcodes1.php:435
+msgid "Button URL"
+msgstr "URL زر"
+
+#: ../admin/shortcode_generator/shortcodes1.php:452
+#: ../admin/shortcode_generator/shortcodes2.php:43
+msgid "Size"
+msgstr "الحجم"
+
+#: ../admin/shortcode_generator/shortcodes1.php:471
+#: ../admin/shortcode_generator/shortcodes1.php:507
+msgid "Icon name"
+msgstr "اسم رمز"
+
+#: ../admin/shortcode_generator/shortcodes1.php:524
+#: ../admin/shortcode_generator/shortcodes1.php:545
+msgid "ID"
+msgstr " هوية (ID)"
+
+#: ../admin/shortcode_generator/shortcodes1.php:529
+#: ../admin/shortcode_generator/shortcodes1.php:550
+#: ../admin/shortcode_generator/shortcodes1.php:571
+msgid "Width"
+msgstr "عرض"
+
+#: ../admin/shortcode_generator/shortcodes1.php:534
+#: ../admin/shortcode_generator/shortcodes1.php:555
+#: ../admin/shortcode_generator/shortcodes1.php:576
+#: ../admin/shortcode_generator/shortcodes1.php:581
+msgid "Height"
+msgstr "الارتفاع"
+
+#: ../admin/shortcode_generator/shortcodes1.php:566
+msgid "URL"
+msgstr "رابط URL"
+
+#: ../admin/shortcode_generator/shortcodes1.php:586
+msgid "Autoplay"
+msgstr "التشغيل التلقائي"
+
+#: ../admin/shortcode_generator/shortcodes1.php:591
+msgid "Show Comments"
+msgstr "إظهار التعليقات"
+
+#: ../admin/shortcode_generator/shortcodes2.php:9
+msgid "Row"
+msgstr "صف"
+
+#: ../admin/shortcode_generator/shortcodes2.php:20
+msgid "Grid"
+msgstr "شبكة"
+
+#: ../admin/shortcode_generator/shortcodes2.php:37
+msgid "Inner Spacer"
+msgstr "فاصل الداخلي"
+
+#: ../inc/themefunctions.php:83
+msgid "Top Bar Menu"
+msgstr "أعلى شريط القوائم"
+
+#: ../inc/themefunctions.php:84
+msgid "Below Logo"
+msgstr "تحت شعار"
+
+#: ../inc/themefunctions.php:100
+msgid "<i class=\"fa fa-home\"></i>"
+msgstr "<i class=\"fa fa-home\"></i>"
+
+#: ../inc/themefunctions.php:101
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr "أرشيف حسب الفئة \"%s\""
+
+#: ../inc/themefunctions.php:102
+#, php-format
+msgid "Search Results for \"%s\""
+msgstr "نتائج ل بحث  \"%s\""
+
+#: ../inc/themefunctions.php:103
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr "وظيفة معلم \"%s\""
+
+#: ../inc/themefunctions.php:104
+#, php-format
+msgid "Articles Posted by %s"
+msgstr "مقالات أرسلها \"%s\""
+
+#: ../inc/themefunctions.php:236
+msgid "&nbsp; &raquo; &nbsp; Page"
+msgstr "&nbsp; &raquo; &nbsp; صفحة"
+
+#: ../inc/themefunctions.php:291
+#, php-format
+msgid "Page %s"
+msgstr "صفحة %s"
+
+#: ../inc/themefunctions.php:489
+msgid "Leave a reply"
+msgstr "ترك الرد"
+
+#: ../inc/themefunctions.php:489
+msgid "1 Reply"
+msgstr "1 الرد"
+
+#: ../inc/themefunctions.php:489
+msgid "% Replies"
+msgstr "% الردود"
+
+#: ../inc/themefunctions.php:573
+msgid "Your comment is awaiting moderation."
+msgstr "تعليقك ينتظر موافقة الإداره."
+
+#: ../inc/themefunctions.php:667
+msgid "<i class=\"fa fa-long-arrow-left\"></i> Previous Page"
+msgstr "<i class=\"fa fa-long-arrow-left\"></i>  الصفحة السابقة"
+
+#: ../inc/themefunctions.php:674
+msgid "Next Page <i class=\"fa fa-long-arrow-right\"></i>"
+msgstr "الصفحة التالية <i class=\"fa fa-long-arrow-right\"></i>"
+
+#: ../inc/themefunctions.php:731
+msgid "Primary Sidebar"
+msgstr "الشريط الجانبي الرئيسي"
+
+#: ../inc/themefunctions.php:733
+msgid "Main sidebar that appears on the right."
+msgstr "الشريط الجانبي الرئيسي الذي يظهر على اليمين."
+
+#: ../inc/parts/related.php:37
+msgid "Related Entries"
+msgstr "مقالات ذات صلة"
+
+#: ../inc/parts/share.php:8
+msgid "Share"
+msgstr "مشاركة"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:164
+#: ../inc/plugins/installplugin.php:83
+msgid "Install Required Plugins"
+msgstr "تثبيت إضافات مطلوبة"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:165
+#: ../inc/plugins/installplugin.php:84
+msgid "Install Plugins"
+msgstr "Install Plugins"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:166
+#: ../inc/plugins/installplugin.php:85
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "تثبيت إضافة: %s"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "ذهب شيئا خاطئا."
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:178
+#: ../inc/plugins/class-tgm-plugin-activation.php:489
+#: ../inc/plugins/installplugin.php:97
+msgid "Return to Required Plugins Installer"
+msgstr "رجوع لمثبت الاضافات الضرورية"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:179
+#: ../inc/plugins/class-tgm-plugin-activation.php:1844
+#: ../inc/plugins/installplugin.php:98
+msgid "Plugin activated successfully."
+msgstr "تم تفعيل الاضافة بنجاح."
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "جميع الإضافات مثبتة وتم تفعيلها بنجاح. %1$s"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:516
+#: ../inc/plugins/class-tgm-plugin-activation.php:2056
+msgid "Return to the Dashboard"
+msgstr "العودة إلى لوحة التحكم الرئيسية"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:544
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "تم تفعيل البرنامج المساعد التالية بنجاح: %s ."
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:703
+msgid "Dismiss this notice"
+msgstr "تجاهل هذه الملاحظة"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1090
+msgid "External Link"
+msgstr "رابط خارجي"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1095
+msgid "Private Repository"
+msgstr "مستودع الخاص"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1098
+msgid "Pre-Packaged"
+msgstr "وتعبئتها مسبقا"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1102
+msgid "WordPress Repository"
+msgstr "مستودع ووردبريس"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1105
+msgid "Required"
+msgstr "مطلوب"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1105
+msgid "Recommended"
+msgstr "يوصى به"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1108
+msgid "Not Installed"
+msgstr "لا المثبتة"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1110
+msgid "Installed But Not Activated"
+msgstr "مثبتة ولكن لم يتم تنشيط"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1280
+#, php-format
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr "لا الإضافات مثبتة أو مفعلة. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1296
+msgid "Plugin"
+msgstr "الإضافة"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1297
+msgid "Source"
+msgstr "المصدر"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1298
+msgid "Type"
+msgstr "نوع"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1299
+msgid "Status"
+msgstr "الحالة "
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1317
+msgid "Install"
+msgstr "تثبيت"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1318
+msgid "Activate"
+msgstr "مفعل"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1827
+msgid "Install package not available."
+msgstr "تثبيت الإضافة غير متوفر."
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1828
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "تحميل تثبيت حزمة من <span class=\"code\">%s</span>&#8230;"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1829
+msgid "Unpacking the package&#8230;"
+msgstr "فك ضغط الحزمة ..."
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1830
+msgid "Installing the plugin&#8230;"
+msgstr "تثبيت الإضافة ..."
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1831
+msgid "Plugin install failed."
+msgstr "فشل تثبيت الإضافة."
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1832
+msgid "Plugin installed successfully."
+msgstr "تم تثبيت الإضافة بنجاح."
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1843
+msgid "Plugin activation failed."
+msgstr "فشل تفعيل الإضافة."
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1953
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "عملية التثبيت وتفعيل بدأت. قد تستغرق هذه العملية فترة من الوقت على بعض المضيفين، لذا يرجى التحلي بالصبر."
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1954
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s تم التثبيت و التفعيل بنجاح."
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1954
+#: ../inc/plugins/class-tgm-plugin-activation.php:1963
+msgid "Show Details"
+msgstr "مشاهدة التفاصيل"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1954
+#: ../inc/plugins/class-tgm-plugin-activation.php:1963
+msgid "Hide Details"
+msgstr "إخفاء التفاصيل"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1955
+msgid "All installations and activations have been completed."
+msgstr "تم الإنتهاء من كل التثبيت و التفعيل."
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "تثبيت وتفعيل الإضافة%1$s ( %2$d / %3$d )"
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1960
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "عملية التثبيت هو بداية. قد تستغرق هذه العملية فترة من الوقت على بعض المضيفين، لذا يرجى التحلي بالصبر."
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "حدث خطأ أثناء تثبيت %1$s: <strong>%2$s</strong>."
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1962
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "عملية تثبيت %1$s فشلت."
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s  تثبيت بنجاح."
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1964
+msgid "All installations have been completed."
+msgstr "وقد تم الانتهاء من التنصيب."
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "تثبيت الإضافة%1$s ( %2$d / %3$d )"
+
+#: ../inc/plugins/installplugin.php:86
+msgid "Something went wrong with the plugin API."
+msgstr "حصل خطأ ما في الـ API الخاص بالإضافة."
+
+#: ../inc/plugins/installplugin.php:99
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "كل الاضافات تم تثبيتها وتفعيلها بنجاح.  %s"
+
+#: ../inc/widgets/about.php:115
+msgid "Descroption:"
+msgstr "Descroption:"
+
+#: ../inc/widgets/postslide.php:82
+msgid "No Post Available to Show"
+msgstr "لا المشاركة متاح للمشاهدة"
+
+#: ../inc/widgets/recentcomments.php:72
+msgid "Commented on"
+msgstr "علق على"
+
+#: ../inc/widgets/twitter-zl.php:256
+msgid "Show User's Info?"
+msgstr "تظهر معلومات المستخدم؟"
+
+#: ../vafpress/bootstrap.php:88
+msgid "Successful"
+msgstr "ناجح"
+
+#: ../vafpress/bootstrap.php:99
+msgid "Unauthorized function"
+msgstr "وظيفة غير مصرح بها"
+
+#: ../vafpress/classes/metabox.php:35
+msgid "[Development Mode] "
+msgstr "[وضع التنمية] "
+
+#: ../vafpress/classes/metabox.php:564
+msgid "Remove"
+msgstr "حدف"
+
+#: ../vafpress/classes/metabox.php:586
+msgid "Add More"
+msgstr "إضافة المزيد"
+
+#: ../vafpress/classes/option.php:47
+#: ../vafpress/classes/option.php:48
+msgid "Vafpress Options"
+msgstr "خيارات Vafpress"
+
+#: ../vafpress/classes/option.php:61
+msgid "Option Key is required"
+msgstr "مطلوب خيار مفتاح"
+
+#: ../vafpress/classes/option.php:63
+msgid "Template Array/File is required"
+msgstr "مطلوب صفيف قالب / ملف"
+
+#: ../vafpress/classes/option.php:65
+msgid "Page Slug is required"
+msgstr "مطلوب صفحة سبيكة"
+
+#: ../vafpress/classes/option.php:167
+msgid "Development Mode is Active, options' values won't be saved into database."
+msgstr "Development Mode is Active, options' values won't be saved into database."
+
+#: ../vafpress/classes/option.php:306
+msgid "Can not be empty"
+msgstr "لا يمكن أن تكون فارغة"
+
+#: ../vafpress/classes/option.php:331
+msgid "Invalid data"
+msgstr "بيانات غير صالحة"
+
+#: ../vafpress/classes/option.php:394
+msgid "Unverified Access"
+msgstr "الوصول لم يتم التحقق منها"
+
+#: ../vafpress/classes/option.php:460
+msgid "Invalid template supplied"
+msgstr "قالب غير صالح الموردة"
+
+#: ../vafpress/classes/option.php:473
+msgid "Utility"
+msgstr "ويجب إتمام التوازن بين الفائدة"
+
+#: ../vafpress/classes/option.php:479
+msgid "Restore Default"
+msgstr "استعادة الافتراضي"
+
+#: ../vafpress/classes/option.php:488
+msgid "Export/Import"
+msgstr "تصدير/إستيراد"
+
+#: ../vafpress/classes/shortcodegenerator.php:260
+msgid "Insert"
+msgstr "إدراج"
+
+#: ../vafpress/classes/shortcodegenerator.php:261
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: ../vafpress/classes/option/control/set.php:359
+msgid "Saving successful"
+msgstr "إنقاذ ناجحة"
+
+#: ../vafpress/classes/option/control/set.php:370
+msgid "Saving failed"
+msgstr "فشل الادخار"
+
+#: ../vafpress/classes/option/control/set.php:376
+msgid "No changes made"
+msgstr "لا التغييرات التي تم إجراؤها"
+
+#: ../vafpress/config/messages.php:13
+msgid "Value needs to be Alphabet"
+msgstr "قيمة يجب أن يكون الأبجدية"
+
+#: ../vafpress/config/messages.php:14
+msgid "Value needs to be Alphanumeric"
+msgstr "قيمة يجب أن يكون أبجدية"
+
+#: ../vafpress/config/messages.php:15
+msgid "Value needs to be Numeric"
+msgstr "القيمة يجب أن تكون رقمية"
+
+#: ../vafpress/config/messages.php:16
+msgid "Value needs to be Valid Email"
+msgstr "قيمة يجب أن يكون ساري المفعول البريد الإلكتروني"
+
+#: ../vafpress/config/messages.php:17
+msgid "Value needs to be Valid URL"
+msgstr "قيمة يجب أن يكون ساري المفعول URL"
+
+#: ../vafpress/config/messages.php:18
+msgid "Length needs to be less than {0} characters"
+msgstr "طول يجب أن يكون أقل من {0} حرفا"
+
+#: ../vafpress/config/messages.php:19
+msgid "Length needs to be more than {0} characters"
+msgstr "طول يجب أن يكون أكثر من {0} حرفا"
+
+#: ../vafpress/config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr "حدد ما لا يزيد عن {0} البنود"
+
+#: ../vafpress/config/messages.php:21
+msgid "Select at least {0} items"
+msgstr "حدد على الأقل {0} البنود"
+
+#: ../vafpress/config/messages.php:22
+msgid "This is required"
+msgstr "هذا مطلوب"
+
+#: ../vafpress/config/messages.php:29
+msgid "Import succeed, option page will be refreshed.."
+msgstr "استيراد تنجح، صفحة الخيار سيكون منتعش .."
+
+#: ../vafpress/config/messages.php:30
+msgid "Import failed"
+msgstr "فشل الاستيراد"
+
+#: ../vafpress/config/messages.php:31
+msgid "Export succeed, copy the JSON formatted options"
+msgstr "تصدير النجاح، نسخ خيارات JSON تنسيق"
+
+#: ../vafpress/config/messages.php:32
+msgid "Export failed"
+msgstr "تصدير فشل"
+
+#: ../vafpress/config/messages.php:33
+msgid "Restoration succeed, option page will be refreshed.."
+msgstr "استعادة تنجح، صفحة الخيار سيكون منتعش .."
+
+#: ../vafpress/config/messages.php:34
+msgid "Options identical to default"
+msgstr "خيارات متطابقة إلى الافتراضي"
+
+#: ../vafpress/config/messages.php:35
+msgid "Restoration failed"
+msgstr "فشلت استعادة"
+
+#: ../vafpress/config/messages.php:43
+msgid "Select option(s)"
+msgstr "حدد الخيار (ق)"
+
+#: ../vafpress/config/messages.php:45
+msgid "Select an Icon"
+msgstr "اختر أيقونة"
+
+#: ../vafpress/views/control/upload.php:5
+msgid "Choose File"
+msgstr "اختر ملف"
+
+#: ../vafpress/views/option/impexp.php:4
+#: ../vafpress/views/option/impexp.php:14
+msgid "Import"
+msgstr "استيراد"
+
+#: ../vafpress/views/option/impexp.php:7
+msgid "Import Options"
+msgstr "خيارات الاستيراد"
+
+#: ../vafpress/views/option/impexp.php:27
+#: ../vafpress/views/option/impexp.php:37
+msgid "Export"
+msgstr "تصدير"
+
+#: ../vafpress/views/option/impexp.php:30
+msgid "Export Options"
+msgstr "خيارات التصدير"
+
+#: ../vafpress/views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr "استعادة الخيارات افتراضي"
+
+#: ../vafpress/views/option/restore.php:7
+msgid "Restore options to initial default values."
+msgstr "استعادة الخيارات المبدئي القيم الافتراضية."
+
+#: ../vafpress/views/option/restore.php:14
+msgid "** Please make sure you have already make a backup data of your current settings. Once you click this button, your current settings will be gone."
+msgstr "** من فضلك تأكد من أنك قمت بالفعل تقديم بيانات احتياطية من الإعدادات الحالية. وبمجرد النقر على هذا الزر، وسوف يكون ذهب الإعدادات الحالية."
+
+#: ../vafpress/views/option/set.php:69
+#: ../vafpress/views/option/set.php:84
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+#: ../vafpress/views/option/set.php:70
+#: ../vafpress/views/option/set.php:85
+msgid "Saving Now"
+msgstr "إنقاذ الآن"
+
+#: ../vafpress/views/option/set.php:93
+msgid "This option panel is built using <a href=\"http://vafpress.com/vafpress-framework\">Vafpress Framework</a> powered by <a href=\"http://vafpress.com\">Vafpress</a>"
+msgstr "تم بناء هذا الفريق باستخدام الخيار إطار Vafpress <a href=\"http://vafpress.com/vafpress-framework\"> </a> ومدعوم من <a href=\"http://vafpress.com\"> Vafpress </A>"
+
+#~ msgid "Custom Javascript"
+#~ msgstr "العرف جافا سكريبت"
+
+#~ msgid "Put the javascript code. DO NOT include script tag"
+#~ msgstr "ضع التعليمات البرمجية جافا سكريبت. لا تشمل بطاقة النصي"
